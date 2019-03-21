@@ -7,4 +7,4 @@ Use:
 cliente: create executable client program  
 servidor: create executable server program   
 clean: erase all executable and compiled files  
-3- ./servidor or ./cliente  
+3- ./servidor on server machine later ./cliente on client machine  
