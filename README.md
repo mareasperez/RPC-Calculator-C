@@ -5,6 +5,6 @@ Use:
 2- make [*all| servidor| cliente| clean]  
 *all: create client and server  
 cliente: create executable client program  
-servidor: create executable server program 
+servidor: create executable server program   
 clean: erase all executable and compiled files  
 3- ./servidor or ./cliente  
